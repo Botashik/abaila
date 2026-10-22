@@ -4,7 +4,7 @@
 
 **Author:** Botakoz Berikkyzy, Astana IT University (Technology Entrepreneurship, Assignment 5: MVP)
 
-**Live demo:** https://YOUR-USERNAME.github.io/abaila/
+**Live demo:** https://botashik.github.io/abaila/
 
 ## What the demo shows
 
